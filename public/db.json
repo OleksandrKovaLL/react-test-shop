@@ -1,0 +1,105 @@
+{
+  "detectors": [
+    {
+      "id": 0,
+      "imageUrl": "https://www.mdregion.ru/md/228-large_default/metalloiskatel-aka-kondor-7252m.jpg",
+      "name": "Aka Kondor-7252m",
+      "types": [0, 1],
+      "sizes": [5, 14, 21],
+      "price": 950,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://www.mdregion.ru/md/196-large_default/metalloiskatel-whites-gmt.jpg",
+      "name": "Whites GMT",
+      "types": [0],
+      "sizes": [5, 21],
+      "price": 600,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.mdregion.ru/md/201-large_default/metalloiskatel-whites-matrix-m6-e-series.jpg",
+      "name": "Whites Matrix M6",
+      "types": [0],
+      "sizes": [5, 21],
+      "price": 400,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://www.mdregion.ru/md/70-large_default/metalloiskatel-minelab-x-terra-705-dual-pack.jpg",
+      "name": "Minelab X-Terra 705",
+      "types": [1],
+      "sizes": [5, 14, 21],
+      "price": 350,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://www.mdregion.ru/md/11332-large_default/metallodetektor-gauss-md-pro.jpg",
+      "name": "Gauss MD PRO",
+      "types": [0, 1],
+      "sizes": [5, 14, 21],
+      "price": 500,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.mdregion.ru/md/53-large_default/metalloisketel-e-trac-standart-pack.jpg",
+      "name": "Minelab E-trac Standart",
+      "types": [0],
+      "sizes": [14, 21],
+      "price": 580,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://www.mdregion.ru/md/197-large_default/metalloiskatel-whites-spectra-v3i.jpg",
+      "name": "Whites Spectra V3i",
+      "types": [0, 1],
+      "sizes": [5, 14, 21],
+      "price": 675,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://www.mdregion.ru/md/3669-large_default/metallodetektor-tesoro-de-leon-katushka-9kh8.jpg",
+      "name": "Tesoro De Leon",
+      "types": [0, 1],
+      "sizes": [5, 14, 21],
+      "price": 450,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://www.mdregion.ru/md/9693-large_default/metalloiskatel-xp-deus-katushka-28sm-x35-ws4-blok.jpg",
+      "name": "XP Deus",
+      "types": [0, 1],
+      "sizes": [5, 14, 21],
+      "price": 1100,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://www.mdregion.ru/md/316-large_default/metalloiskatel-xp-goldmaxx-power.jpg",
+      "name": "XP Goldmaxx",
+      "types": [0, 1],
+      "sizes": [5, 14, 21],
+      "price": 1350,
+      "category": 5,
+      "rating": 7
+    }
+  ]
+}
+
