@@ -130,7 +130,7 @@ function Cart() {
             </div>
           </div>
           <div className="content__items">
-            {addedDetectors.length > 0 ? addedDetectors.map((obj) => (
+            {addedDetectors.map((obj) => (
               <CartItem
                 key={obj.id}
                 id={obj.id}
@@ -146,7 +146,7 @@ function Cart() {
                 onMinusRemove={minusRemoveItem}
               />
             ))
-              : []}
+            }
           </div>
           <div className="cart__bottom">
             <div className="cart__bottom-details">
