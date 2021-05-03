@@ -12,11 +12,11 @@ function Cart() {
   const dispatch = useDispatch();
   const { totalPrice, totalCount, items } = useSelector(({ cart }) => cart);
 
-  React.useEffect(() => {
-    const cartData = window.localStorage.getItem('cartData');
-    console.log(cartData, 'cartData-2');
+  // React.useEffect(() => {
+  //   const cartData = window.localStorage.getItem('cartData');
+  //   console.log(cartData, 'cartData-2');
 
-  });
+  // });
 
 
   const addedDetectors = Object.keys(items).map((key) => {
